@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio](#) <!-- Add your Netlify link here -->
+🔗 [View Portfolio](https://elmorsihemida.netlify.app) <!-- Add your Netlify link here -->
 
 ---
 
